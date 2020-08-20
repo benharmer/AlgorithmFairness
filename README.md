@@ -6,4 +6,6 @@ The data produced is used for analysis in my Operational Research MSc dissertati
 
 There are two Jypter files: 
 
-1) BankMarketing.ip
+1) BankMarketing.ipynb which uses the bank_additional_full.csv file and,
+
+2) GermanCredit.ipynb which uses the german_data.csv file.

@@ -4,7 +4,7 @@ The project's aim is twofold: firstly, comparing the "fairness" of popular machi
 The code will also output whether the algorithm satisfies five measures of fairness: statistical parity, equalised opportunity, equalised odds and the p% rule. 
 The data produced is used for analysis in my Operational Research MSc dissertation: "Modelling and Measuring the Fairness of Artifical Intelligence Algorithms".
 
-There are two Jypter files: 
+There are two Jupyter Notebook files: 
 
 1) BankMarketing.ipynb which uses the bank_additional_full.csv file and,
 
